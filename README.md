@@ -1,4 +1,7 @@
-*The best way to use this, first load the full page at first then start the script it will automatically capture the chapter for you or you can start it without loading the full chapter though it might stop if the next page isn't loaded in that case you just have scroll it once and it'll start again but i might stop more than once so you have to scroll it once every time
+*This is for educational purpose, don't repost the downloaded images
+Tamper Monkey recommended
+
+*Scroll to the end of the chapter and click on the download. Because of the site's protection policy each image appear as 3 divided parts but they're in correct order
 
 Help Keep This Userscript
 Updated and Running Smoothly
