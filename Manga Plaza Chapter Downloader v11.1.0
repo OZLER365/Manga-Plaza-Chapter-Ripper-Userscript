@@ -6,7 +6,7 @@
     // @version        11.1.0
     // @description    Targets pages by ID (content-p1, p2...) to guarantee perfect order. Merges split parts automatically.
     // @author         ozler365
-    // @license        MIT
+    // @license        GPL-3.0-only
     // @match          https://reader.mangaplaza.com/*
     // @icon           https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPhS0MYkfiZ0LGfDQaF7jedEY76T9dZybag&s
     // @require        https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js
